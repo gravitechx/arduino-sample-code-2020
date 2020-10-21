@@ -45,7 +45,7 @@ void setup() {
   double y = 3.1415;
   boolean b = false;
 
-  //Declaring 2 Objects of the type Object
+  //Declaring and Instantiating 2 Objects of the type Object
   Object obj1;
   Object obj2(2);
 
