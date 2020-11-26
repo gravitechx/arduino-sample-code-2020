@@ -2,7 +2,7 @@
 
 Servo servo;
 int servoPin = 9; 
-int servoPosition = 90; //0 to 180
+int servoPosition = 90; //-180 to 180
 
 void setup() {
   // put your setup code here, to run once:
